@@ -20,3 +20,5 @@ const RecipeCard = ({ recipe, onClick }: Props) => {
   );
 };
 export default RecipeCard;
+
+//add UI
